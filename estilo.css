@@ -1,0 +1,12 @@
+﻿body{background-color:#FFD1DC;}
+h1 {color:#b2a3ff; font-size:45px; text-align:center;}
+h2 {color:#a3ffce; font-size:30px; text-align:center;}
+p{text-align:justify;margin-left:20px; margin-right:20px;}
+#mail {font-size:25px}
+a{margin-left:20px; margin-right:20px;}
+table, th, td {border:solid; margin-left:50px; margin-right:50px;cellsparing:1;cellpadding:2px;
+color:#b5ffa3;cléar:left;text-align:centér;font-size:35px;background-color:#ffc3a3;}
+#foto {width:400px; height:400px; margin-left:50px;}
+#foto1 {width:600px; height:400px; margin-left:50px;}
+ol {font-size:27px; padding-left: 500px;}
+#enlace {font-size:100px}
